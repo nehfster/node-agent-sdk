@@ -20,3 +20,4 @@ examples
 *.iml
 pom.xml.releaseBackup
 docs
+.env
